@@ -1,16 +1,27 @@
 {
-    "name": "com.github.your_name.package",
-    "displayName": "Package",
+    "name": "com.github.shuaikx.celestial-orbit-system",
+    "displayName": "celestial-orbit-system",
     "author": {
-        "name": "Your_Name",
-        "url": "https://github.com/Your_Name"
+        "name": "shuaikx",
+        "email": "shuaikx828@gmail.com",
+        "url": "https://shuaikx.github.io"
     },
+    "license": "Refer to LICENSE.md file",
     "keywords": [
-        "keyword1",
-        "keyword2"
+        "unity",
+        "celestial",
+        "orbit",
+        "tool"
     ],
     "version": "1.0.0",
-    "unity": "2019.4",
-    "description": "Some description",
-    "dependencies": {}
+    "unity": "6000.0",
+    "description": "A simple and efficient celestial orbit system for Unity projects.",
+    "dependencies": {},
+    "samples": [
+        {
+        "displayName": "Samples",  
+        "description": "Basic scenes and scripts.", 
+        "path": "Samples~/SampleScenes"        
+        }
+    ]
 }

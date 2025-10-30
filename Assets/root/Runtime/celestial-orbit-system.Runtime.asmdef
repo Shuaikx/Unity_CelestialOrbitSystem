@@ -1,5 +1,5 @@
 {
-    "name": "Package.Runtime",
+    "name": "celestial-orbit-system.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [

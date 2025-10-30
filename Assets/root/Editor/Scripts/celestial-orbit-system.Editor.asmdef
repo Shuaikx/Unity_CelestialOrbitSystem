@@ -1,7 +1,7 @@
 {
-    "name": "Package.Editor",
+    "name": "celestial-orbit-system.Editor",
     "references": [
-        "Package.Runtime"
+        "celestial-orbit-system.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
